@@ -6,7 +6,7 @@
 - git init
 - git status
 - git add ,
-- git commit -m "descrição dda versão
+- git commit -m "descrição da versão"
 - git log
 - git reset --hard < ID do commit >
 - git push -u origin main
