@@ -5,7 +5,7 @@
 ### Comandos Utilizados no Versionamento
 - git init
 - git status
-- git add ,
+- git add .
 - git commit -m "descrição da versão"
 - git log
 - git reset --hard < ID do commit >
